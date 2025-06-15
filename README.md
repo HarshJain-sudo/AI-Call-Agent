@@ -1,6 +1,5 @@
 # AI Call Agent
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Plivo](https://img.shields.io/badge/Plivo-API-green.svg)](https://www.plivo.com/)
 [![Google AI](https://img.shields.io/badge/Google-Gemini%20Live-red.svg)](https://ai.google.dev/)
@@ -35,7 +34,7 @@ The system acts as a bridge between three main components:
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/HarshJain-sudo/AI-Call-Agent.git
    cd AI-Call-Agent
    ```
 
@@ -545,19 +544,7 @@ Key metrics to monitor:
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### What this means:
-- ✅ **Free to use** - Use this code in personal and commercial projects
-- ✅ **Modify freely** - Change, adapt, and improve the code
-- ✅ **Distribute** - Share the original or modified versions
-- ✅ **Private use** - Use in private/proprietary projects
-- ✅ **Commercial use** - Use in commercial applications
-
-**Requirements:**
-- Include the original license and copyright notice in any substantial portions of the software
 
 ## 🆘 Troubleshooting
 
