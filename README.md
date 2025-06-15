@@ -1,5 +1,10 @@
 # AI Call Agent
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Plivo](https://img.shields.io/badge/Plivo-API-green.svg)](https://www.plivo.com/)
+[![Google AI](https://img.shields.io/badge/Google-Gemini%20Live-red.svg)](https://ai.google.dev/)
+
 A real-time AI voice call agent that integrates Plivo telephony services with Google's Gemini Live API to create intelligent voice conversations over phone calls.
 
 ## 🚀 Features
@@ -542,7 +547,17 @@ Key metrics to monitor:
 
 ## 📄 License
 
-[Add your license information here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### What this means:
+- ✅ **Free to use** - Use this code in personal and commercial projects
+- ✅ **Modify freely** - Change, adapt, and improve the code
+- ✅ **Distribute** - Share the original or modified versions
+- ✅ **Private use** - Use in private/proprietary projects
+- ✅ **Commercial use** - Use in commercial applications
+
+**Requirements:**
+- Include the original license and copyright notice in any substantial portions of the software
 
 ## 🆘 Troubleshooting
 
